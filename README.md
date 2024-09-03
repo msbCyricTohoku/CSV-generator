@@ -1,11 +1,14 @@
 A simple tool to generate large csv files for testing data analysis programs. 
 
-How to compile and run:
+How to compile:
 
 ```
-g++ main.cpp && ./a.out
+g++ main.cpp
 ```
-
+Run using:
+```
+./a.out
+```
 ---
 
 Enjoy.
